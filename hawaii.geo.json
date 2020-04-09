@@ -1,4 +1,8 @@
-[{
+{
+ "type": "FeatureCollection",
+ "features":[
+{
+ {
  "_id": "hawaii",
  "type": "Feature",
  "properties": {
