@@ -1,4 +1,4 @@
-{
+[{
  "_id": "hawaii",
  "type": "Feature",
  "properties": {
@@ -3170,3 +3170,4 @@
   "type": "MultiPolygon"
  }
 }
+]
